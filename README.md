@@ -61,7 +61,7 @@ This assignment offers an exciting opportunity to explore the realm of natural l
           ```bash
           docker pull hamidnaser11061213/amazonreviews
           ```
-![Application Interface](image.png)
+![Application Interface](Image.png)
 
 ## Features
 
